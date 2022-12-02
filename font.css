@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Euclid Flex";
+    src: url('./fonts/AnyConv.com__EuclidFlexBold.woff');
+    font-weight:700;
+  }
+
+
+  @font-face {
+    font-family: "Euclid Flex";
+    src: url('./fonts/AnyConv.com__EuclidFlexSemiBold.woff');
+    font-weight:600;
+  }
+
+
+  @font-face {
+    font-family: "Euclid Flex";
+    src: url('./fonts/AnyConv.com__EuclidFlexMedium.woff');
+    font-weight:500;
+  }
+
+  @font-face {
+    font-family: "Euclid Flex";
+    src: url('./fonts/AnyConv.com__EuclidFlexRegular.woff');
+    font-weight:400;
+  }
+
+  @font-face {
+    font-family: "Euclid Flex";
+    src: url('./fonts/EuclidFlexLight.woff');
+    font-weight:300;
+  }
